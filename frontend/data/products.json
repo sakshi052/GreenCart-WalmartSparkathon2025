@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Glow Face Serum",
+    "category": "serum",
+    "ecoScore": 65,
+    "imageUrl": "/images/serum1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Neem Shampoo",
+    "category": "shampoo",
+    "ecoScore": 80,
+    "imageUrl": "/images/shampoo1.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Organic Soap",
+    "category": "soap",
+    "ecoScore": 90,
+    "imageUrl": "/images/soap1.jpg"
+  }
+]
