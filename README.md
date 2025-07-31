@@ -176,7 +176,7 @@ Pull requests are welcome! For major changes, open an issue first.
 
 ## 📧 Contact
 
-Made with 💚 by [Adarsh](https://github.com/adarshkrk6203)
+Made with 💚 by [Sakshi](https://github.com/sakshi052)
 
 Have feedback or ideas? Reach out via GitHub Issues or Discussions!
 
