@@ -3,7 +3,7 @@
 
 **GreenCart** is a full-stack eco-conscious e-commerce platform designed for daily essentials, inspired by Walmart. It helps users shop smarter and live greener by recommending products with better Eco Scores.
 
-[🌐 View on GitHub »](https://github.com/adarshkrk6203/GreenCart_WalmartBased.git)
+[🌐 View on GitHub »](https://github.com/sakshi052/GreenCart-WalmartSparkathon2025.git)
 
 ---
 
@@ -70,8 +70,8 @@ Shows eco insights like carbon footprint, plus points, and disposal tips for eac
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/adarshkrk6203/GreenCart_WalmartBased.git
-cd GreenCart_WalmartBased
+git clone https://github.com/sakshi052/GreenCart-WalmartSparkathon2025.git
+cd GreenCart-WalmartSparkathon2025
 ```
 
 ### 2. Setup Environment Variables
